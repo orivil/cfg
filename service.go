@@ -32,6 +32,7 @@ func (s *Service) New(ctn *service.Container) (value interface{}, err error) {
 	return env, nil
 }
 
+// Get singleton data
 func (s *Service) Get(ctn *service.Container) (envs Env, err error) {
 	es, er := ctn.Get(&s.self)
 	if er != nil {
