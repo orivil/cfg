@@ -1,0 +1,4 @@
+github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
+github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/orivil/service v0.0.0-20200713065745-9abdcb23a001 h1:LQ2naUkc0nURZjnjSlGDB3WH9tlmyMVptDiCESHgy5g=
+github.com/orivil/service v0.0.0-20200713065745-9abdcb23a001/go.mod h1:JGh903UXPzeUhWtE5P8VQQZhkrAbLVGOAj8NCqVm4ys=
